@@ -29,6 +29,10 @@ This script focuses on analyzing the confidence metrics gathered during the stud
 
 Execute the script in a Python environment where the necessary libraries (mentioned at the beginning of the script) are installed. The script can be configured to perform different analyses based on user input.
 
+## Data Files
+
+The necessary data files for running the scripts are found in the 'Analysis' subdirectory. Please ensure to maintain the structure of this directory for the scripts to function correctly.
+
 ## Installation
 
 Ensure you have a Python environment set up with the following libraries installed:
