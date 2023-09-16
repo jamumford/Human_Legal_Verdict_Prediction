@@ -43,6 +43,7 @@ You can install the required packages using the following command:
 
 ```sh
 pip install matplotlib numpy pandas scipy statsmodels
+```
 
 
 ## Authors
