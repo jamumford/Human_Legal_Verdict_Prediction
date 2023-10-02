@@ -31,7 +31,7 @@ Execute the script in a Python environment where the necessary libraries (mentio
 
 ## Data Files
 
-The necessary participant classification data files for running the scripts are found in the 'Analysis' subdirectory. The model groups' final quiz responses are found in model_2nd_quiz_responses.xlsx, and the debrief survey responses for all participants are found in survey_responses.xlsx. Please ensure to maintain the structure of the repository for the scripts to function correctly.
+The necessary participant classification data files for running the scripts are found in the 'Analysis' subdirectory. The model groups' final quiz responses are found in model_2nd_quiz_responses.xlsx, and the debrief survey responses for all participants are found in survey_responses.xlsx. Please ensure to maintain the structure of the repository for the scripts to function correctly. The file Article6_ADM.pdf is not necessary for executing any of the scripts, but contains the ADM in the format provided to those participant groups that were permitted access to the domain model.
 
 ## Installation
 
