@@ -49,11 +49,6 @@ You can install the required packages using the following command:
 pip install matplotlib numpy pandas scipy statsmodels
 ```
 
-
-## Authors
-
-Jack Mumford
-
 ## Acknowledgements
 
 A big thank you to all participants of the study, whose valuable input made this analysis possible.
