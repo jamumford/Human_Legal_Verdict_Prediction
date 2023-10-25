@@ -1,6 +1,14 @@
 # Human Study Legal Verdict Classification Analysis
 
+## Overview
+
 This repository contains the Python scripts used to analyse the results of a human study involving the classification of case verdicts pertaining to Article 6 (Right to a fair trial) from the ECHR (European Convention on Human Rights) based on descriptions of the case facts. Participants were tasked with making a prediction of the correct verdict after reading the 'circumstances of the case' and again after reading the 'relevant legal framework', and these predictions are compared against the actual decisions taken by the ECtHR (European Court of Human Rights). The python scripts provide detailed statistical analyses, focusing on performance and confidence metrics. Below are descriptions of each script along with usage instructions.
+
+## Citation of Resource
+
+If you use the datasets provided in this repository, or if you want to gain a deeper understanding of the context and methods behind the creation of these datasets and their analysis, please refer to the following paper due for publication at JURIX 2023:
+
+Mumford J, Atkinson K, Bench-Capon T. (2023). Human Performance on the AI Legal Case Verdict Classification Task. In Proceedings of the Thirty-Sixth International Conference on Legal Knowledge and Information Systems. (due for publication)
 
 ## Scripts Description
 
