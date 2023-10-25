@@ -67,7 +67,7 @@ pip install matplotlib numpy pandas scipy statsmodels
 
 ## Acknowledgements
 
-A big thank you to all participants of the study, whose valuable input made this analysis possible.
+A big thank you to all participants of the study, whose valuable input made this analysis possible. The study was supported by Research England under the Policy Support Funding stream.
 
 ## Contact
 
