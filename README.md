@@ -8,7 +8,7 @@ This repository contains the Python scripts used to analyse the results of a hum
 
 If you use the datasets provided in this repository, or if you want to gain a deeper understanding of the context and methods behind the creation of these datasets and their analysis, please refer to the following paper due for publication at JURIX 2023:
 
-Mumford J, Atkinson K, Bench-Capon T. (2023). Human Performance on the AI Legal Case Verdict Classification Task. In Proceedings of the Thirty-Sixth International Conference on Legal Knowledge and Information Systems. (due for publication)
+Mumford J, Atkinson K, Bench-Capon T. (2023). *Human Performance on the AI Legal Case Verdict Classification Task*. In Proceedings of the Thirty-Sixth International Conference on Legal Knowledge and Information Systems. (due for publication)
 
 ## Scripts Description
 
