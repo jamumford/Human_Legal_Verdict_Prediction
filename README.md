@@ -31,7 +31,15 @@ Execute the script in a Python environment where the necessary libraries (mentio
 
 ## Data Files
 
-The necessary participant classification data files for running the scripts are found in the 'Analysis' subdirectory. The model groups' final quiz responses are found in model_2nd_quiz_responses.xlsx, and the debrief survey responses for all participants are found in survey_responses.xlsx. Please ensure to maintain the structure of the repository for the scripts to function correctly. The file Article6_ADM.pdf is not necessary for executing any of the scripts, but contains the ADM in the format provided to those participant groups that were permitted access to the domain model.
+The necessary participant classification data files for running the scripts are found in the six subdirectories nested in the 'Analysis/Processed' path. The names of these subdirectories indicate the participant group that produced the datasets contained within where directory names containing the string:
+
+- 'Alpha' indicate the group was not provided the domain knowledge model (ADM); 
+- 'Omega' indicate the group was provided with the domain knowledge model;
+- 'CS' pertain to computer science student outputs (denoted as the 'Weak' domain knowledge group in the associated peer-reviewed paper);
+- 'Law' pertain to general law students without ECHR module study (denoted as the 'Moderate' group in the associated peer-reviewed paper);
+- 'Domain' pertain to law students with ECHR module study (denoted as the 'Strong' group in the associated peer-reviewed paper)
+
+The model groups' final quiz responses are found in model_2nd_quiz_responses.xlsx, and the debrief survey responses for all participants are found in survey_responses.xlsx. Please ensure to maintain the structure of the repository for the scripts to function correctly. The file Article6_ADM.pdf is not necessary for executing any of the scripts, but contains the ADM in the format provided to those participant groups that were permitted access to the domain model.
 
 ## Installation
 
